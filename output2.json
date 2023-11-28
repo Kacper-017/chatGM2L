@@ -1,0 +1,136 @@
+{
+    "props": {
+        "pageProps": {
+            "songData": {
+                "response": {
+                    "code": 101,
+                    "description": "SUCCESS: LICENSE, LYRICS"
+                },
+                "track": {
+                    "lfid": "002-1501328",
+                    "language": "pl",
+                    "rovi": "MT0057166528",
+                    "gracenote": "GN6JXYHT0KJ7AN1",
+                    "apple": 1451198893,
+                    "isrcs": [
+                        "PLC061907548",
+                        "PLC061908360"
+                    ],
+                    "instrumental": false,
+                    "viewable": true,
+                    "has_lrc": false,
+                    "has_contentfilter": false,
+                    "has_emotion": false,
+                    "has_sentiment": false,
+                    "title": "Robi\u0119 Yeah",
+                    "titleRomanized": "Robie Yeah",
+                    "artists": [
+                        {
+                            "name": "Malik Montana",
+                            "lfid": "lf:168048",
+                            "slug": "malik-montana",
+                            "is_primary": true
+                        },
+                        {
+                            "name": "K Koke",
+                            "lfid": "lf:58",
+                            "slug": "k-koke",
+                            "is_primary": false
+                        }
+                    ],
+                    "artist": {
+                        "name": "Malik Montana and K Koke"
+                    },
+                    "last_update": "2022-01-01 00:00:00",
+                    "lyrics": "I can be your ice cream man\nAnd you can be my paradise\nYou can probably spend a night\nBut if you lick my lolly right\n\nPrzyszed\u0142em sam, zabra\u0142em dwie\nWychodzimy we troje do nowego AMG\nPrzyszed\u0142em sam, zabra\u0142em dwie\nWychodzimy we troje, w samochodzie robi\u0119 je\nNa pod\u0142odze robi\u0119 je\nNa kanapie robi\u0119 je\nWk\u0142adaj go do buzi zanim roztopi si\u0119\nNa balkonie robi\u0119 je\nNa komodzie robi\u0119 je\nWk\u0142adaj go do buzi zanim roztopi si\u0119\n\nYeah, yeah, yeah\nYeah, yeah, yeah grab her by the head, yeah\nI made a job and give me head, yeah\nNow we having sex, yeah\nShe wants more from the best, yeah\nFrom the door to the floor to the bed, yeah\nAnd now her ex sending death threats\nI told her \"get dressed\", then moved on to my next flex\nShe treats the John like some headrest\nIt was on when I pressed it (she knows who the best is)\nI ain't fucking with you dickheads 'cause you begfriend\nI'm only fucking with these bitches, and their best friend\nShe knows I'm a baddie, yeah\nI'm in the club with my gun and my tracksuit\n\nI can be your ice cream man\nAnd you can be my paradise\nYou can probably spend a night\nBut if you lick my lolly right\n\nPrzyszed\u0142em sam, zabra\u0142em dwie\nWychodzimy we troje do nowego AMG\nPrzyszed\u0142em sam, zabra\u0142em dwie\nWychodzimy we troje, w samochodzie robi\u0119 je\nNa pod\u0142odze robi\u0119 je\nNa kanapie robi\u0119 je\nWk\u0142adaj go do buzi zanim roztopi si\u0119\nNa balkonie robi\u0119 je\nNa komodzie robi\u0119 je\nWk\u0142adaj go do buzi zanim roztopi si\u0119\n\nOna chcia\u0142a naszyjnik a ja chcia\u0142em jej g\u0142ow\u0119\nDlatego na szyi zostawiam jej \u015blady czerwone\nRobi mokra si\u0119 jak widzi pliki fioletowe\nWzi\u0119\u0142a kole\u017cank\u0119 chyba zrobi\u0119 dzisiaj obie\nSilikonowe cycki jej nie mieszcz\u0105 mi si\u0119 w d\u0142onie\nZabieraj studentki bo te po botoksie moje\nOna m\u00f3wi Malik, \u017ce to ju\u017c lekka przesada\nW \u0142\u00f3\u017cku le\u017c\u0105 dwie a m\u00f3wi, \u017ce kolejna wpada\nW obcasach, zosta\u0144 dzi\u015b w obcasach\nRobi\u0107 b\u0119d\u0119 ciebie na marmurowych posadzkach ej\nOd pasa, od mojego pasa b\u0119dziesz mia\u0142a dzisiaj \u015blady na swoich po\u015bladkach ej\n\nI can be your ice cream man\nAnd you can be my paradise\nYou can probably spend a night\nBut if you lick my lolly right\n\nPrzyszed\u0142em sam, zabra\u0142em dwie\nWychodzimy we troje do nowego AMG\nPrzyszed\u0142em sam, zabra\u0142em dwie\nWychodzimy we troje, w samochodzie robi\u0119 je\nNa pod\u0142odze robi\u0119 je\nNa kanapie robi\u0119 je\nWk\u0142adaj go do buzi zanim roztopi si\u0119\nNa balkonie robi\u0119 je\nNa komodzie robi\u0119 je\nWk\u0142adaj go do buzi zanim roztopi si\u0119",
+                    "copyright": "Lyrics \u00a9 Sony/ATV Music Publishing LLC, PFIVE Entertainment Mexico, Peermusic Publishing",
+                    "writer": "Ghawsi Mosa, Ivano L I Biharie, Rodi Keelos",
+                    "slug": "malik-montana-robie-yeah"
+                }
+            },
+            "artist": "malik-montana",
+            "album": "",
+            "countryCode": "PL",
+            "songIsInstrumental": false,
+            "dehydratedState": {
+                "mutations": [],
+                "queries": [
+                    {
+                        "state": {
+                            "data": {
+                                "response": {
+                                    "code": 202,
+                                    "description": "KEY NOT FOUND",
+                                    "message": "The provided artistId id(s) could not be resolved."
+                                }
+                            },
+                            "dataUpdateCount": 1,
+                            "dataUpdatedAt": 1701181620970,
+                            "error": null,
+                            "errorUpdateCount": 0,
+                            "errorUpdatedAt": 0,
+                            "fetchFailureCount": 0,
+                            "fetchFailureReason": null,
+                            "fetchMeta": null,
+                            "isInvalidated": false,
+                            "status": "success",
+                            "fetchStatus": "idle"
+                        },
+                        "queryKey": [
+                            "artistAlbumsDataQuery",
+                            0,
+                            "malik-montana",
+                            30,
+                            "PL"
+                        ],
+                        "queryHash": "[\"artistAlbumsDataQuery\",0,\"malik-montana\",30,\"PL\"]"
+                    },
+                    {
+                        "state": {
+                            "data": {
+                                "response": {
+                                    "code": 201,
+                                    "description": "INVALID REQUEST",
+                                    "message": "The value of the 'slug' albumid field is not provided."
+                                }
+                            },
+                            "dataUpdateCount": 1,
+                            "dataUpdatedAt": 1701181620967,
+                            "error": null,
+                            "errorUpdateCount": 0,
+                            "errorUpdatedAt": 0,
+                            "fetchFailureCount": 0,
+                            "fetchFailureReason": null,
+                            "fetchMeta": null,
+                            "isInvalidated": false,
+                            "status": "success",
+                            "fetchStatus": "idle"
+                        },
+                        "queryKey": [
+                            "albumTrackDataQuery",
+                            0,
+                            "",
+                            "PL"
+                        ],
+                        "queryHash": "[\"albumTrackDataQuery\",0,\"\",\"PL\"]"
+                    }
+                ]
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/lyrics/[songId]",
+    "query": {
+        "songId": "malik-montana-robie-yeah"
+    },
+    "buildId": "CDBg4ohJo18o4YRPWxhlo",
+    "isFallback": false,
+    "gssp": true,
+    "locale": "en-US",
+    "locales": [
+        "en-US",
+        "en-GB"
+    ],
+    "defaultLocale": "en-US",
+    "scriptLoader": []
+}
